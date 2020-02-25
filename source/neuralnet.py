@@ -6,7 +6,7 @@ class CNN(object):
 
     def __init__(self, height, width, channel, num_class, ksize, learning_rate=1e-3, ckpt_dir='./Checkpoint'):
 
-        print("\nInitializing ResNeXt18...")
+        print("\nInitializing Short-ResNeXt...")
         self.height, self.width, self.channel, self.num_class = height, width, channel, num_class
         self.ksize, self.learning_rate = ksize, learning_rate
         self.ckpt_dir = ckpt_dir
