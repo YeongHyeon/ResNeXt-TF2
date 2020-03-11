@@ -3,7 +3,7 @@
 
 ## Related Repositories
 <a href="https://github.com/YeongHyeon/ResNet-TF2">ResNet-TF2</a>  
-<a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">WideResNet_WRN-TF2</a>  
+<a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">WideResNet(WRN)-TF2</a>  
 
 ## Concept
 <div align="center">
