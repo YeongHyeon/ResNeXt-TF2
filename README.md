@@ -1,6 +1,10 @@
 [TensorFlow 2] Aggregated Residual Transformations for Deep Neural Networks
 =====
 
+## Related Repositories
+<a href="https://github.com/YeongHyeon/ResNet-TF2">ResNet-TF2</a>
+<a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">WideResNet_WRN-TF2</a>
+
 ## Concept
 <div align="center">
   <img src="./figures/resnext.png" width="800">  
